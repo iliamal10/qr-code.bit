@@ -151,6 +151,7 @@ a:hover {
 
 .for-div {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .two-img {
@@ -415,6 +416,7 @@ a:hover {
 
   .black-one-div {
     order: 2;
+    width: 318px;
   }
   .common-wrapper {
     width: 318px;
