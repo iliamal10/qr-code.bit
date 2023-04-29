@@ -12,7 +12,6 @@ body {
   font-weight: 700;
   font-size: 12px;
   line-height: 16px;
-
   letter-spacing: 2px;
   text-decoration: none;
   color: #ffffff;
@@ -65,10 +64,8 @@ body {
   font-size: 40px;
   line-height: 48px;
   width: 387px;
-
   letter-spacing: 4.16667px;
   text-transform: uppercase;
-
   color: #ffffff;
 }
 
@@ -79,9 +76,7 @@ body {
   font-size: 15px;
   line-height: 25px;
   width: 387px;
-
   color: #ffffff;
-
   mix-blend-mode: normal;
   opacity: 0.6;
 }
@@ -93,10 +88,8 @@ body {
   font-size: 40px;
   line-height: 48px;
   width: 378px;
-
   letter-spacing: 4.16667px;
   text-transform: uppercase;
-
   color: #000000;
 }
 
@@ -107,9 +100,7 @@ body {
   font-size: 15px;
   line-height: 25px;
   width: 378px;
-
   color: #000000;
-
   mix-blend-mode: normal;
   opacity: 0.6;
 }
@@ -213,9 +204,7 @@ a:hover {
 .black-end-div {
   background: black;
   display: flex;
-
   justify-content: space-around;
-
   height: 539px;
 }
 
@@ -235,7 +224,6 @@ a:hover {
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
-
   color: #ffffff;
 }
 
@@ -247,7 +235,6 @@ a:hover {
   line-height: 16px;
   text-decoration-line: none;
   letter-spacing: 2px;
-
   color: #ffffff;
 }
 
@@ -270,9 +257,7 @@ a:hover {
   line-height: 20px;
   margin-top: 32px;
   text-align: center;
-
   color: #ffffff;
-
   mix-blend-mode: normal;
   opacity: 0.5;
 }
@@ -283,7 +268,6 @@ a:hover {
   font-weight: 700;
   font-size: 18px;
   line-height: 25px;
-
   color: #ffffff;
 }
 
@@ -294,9 +278,7 @@ a:hover {
   font-size: 12px;
   line-height: 16px;
   text-decoration-line: none;
-
   letter-spacing: 2px;
-
   color: #ffffff;
 }
 
@@ -306,7 +288,6 @@ a:hover {
   font-weight: 400;
   font-size: 13px;
   line-height: 17px;
-
   color: #ffffff;
 }
 
@@ -590,9 +571,7 @@ a:hover {
     line-height: 25px;
     width: 350px;
     text-align: center;
-
     color: #000000;
-
     mix-blend-mode: normal;
     opacity: 0.6;
   }
